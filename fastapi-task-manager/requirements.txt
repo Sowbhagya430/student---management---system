@@ -1,0 +1,14 @@
+fastapi==0.115.2
+uvicorn==0.22.1
+SQLAlchemy==2.0.43
+asyncpg==0.27.0
+pydantic==2.11.7
+python-dotenv==1.1.0
+redis==5.3.3
+aioredis==2.0.1
+pytest==8.3.0
+pytest-asyncio==8.1.0
+httpx==0.24.1
+pandas==2.1.1
+passlib[bcrypt]==1.7.4
+python-jose==3.3.0
